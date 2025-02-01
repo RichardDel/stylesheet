@@ -1,6 +1,6 @@
-@import url("https://fonts.google.com/share?selection.family=Montserrat:ital,wght@0,100..900;1,100..900");
+@import url("https://fonts.google.com/share?selection.family=Montserrat");
 
 /* To Change all*/
 :host{
-  --fonts-default: 'Montserrat', normal;
+  --fonts-default: 'Montserrat', cursive;
 }
