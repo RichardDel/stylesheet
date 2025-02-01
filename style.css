@@ -2,5 +2,5 @@
 
 /* To Change all*/
 :host{
-  --fonts-default: 'Montserrat', serif;
+  --fonts-default: 'Montserrat', normal;
 }
